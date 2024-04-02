@@ -1,0 +1,13 @@
+image_speed = 0
+image_index = 0
+image_xscale = 5
+image_yscale = 5
+right = 39
+left = 37
+up = 38
+down = 40
+walktimer = 0
+endtimer = 0
+grab = 0
+global.fruits = 0
+endlevel = 0

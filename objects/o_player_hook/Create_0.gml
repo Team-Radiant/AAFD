@@ -1,0 +1,11 @@
+image_speed = 0
+image_index = 0
+image_xscale = 7
+image_yscale = 7
+right = 39
+left = 37
+down = 32
+walktimer = 0
+godown = 0
+goup = 0
+global.spook = 0

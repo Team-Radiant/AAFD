@@ -1,0 +1,11 @@
+global.glitched = 1
+if file_exists("apple.sav")
+    file_delete("apple.sav")
+ini_open("apple.sav")
+ini_write_real("Save1", "Picnic", global.cutscene1)
+ini_write_real("Save1", "FelixSticker", global.bonus1)
+ini_write_real("Save1", "MelodySticker", global.bonus2)
+ini_write_real("Save1", "MargretSticker", global.bonus3)
+ini_write_real("Save1", "ClausSticker", global.bonus4)
+ini_write_real("Save1", "Glitched", global.glitched)
+ini_close()

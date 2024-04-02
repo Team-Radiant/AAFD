@@ -1,0 +1,22 @@
+draw_self()
+if (collide == 1)
+{
+    timer2 += 1
+    draw_set_font(fnt_1)
+    draw_set_color(c_white)
+    draw_text((o_player.x - 50), 50, "")
+    draw_text((o_player.x - 50), 100, " ___		 ___")
+    draw_text((o_player.x - 50), 150, "")
+    draw_text((o_player.x - 50), 200, "( 0 )		( 0 )")
+    draw_text((o_player.x - 50), 250, "		| |")
+    draw_text((o_player.x - 50), 300, ".				.")
+    draw_text((o_player.x - 50), 350, " .			   .")
+    draw_text((o_player.x - 50), 400, "	..........")
+    draw_text((o_player.x - 50), 450, "")
+    draw_text((o_player.x - 50), 500, "")
+    draw_text((o_player.x - 50), 550, "D0 N0+ B3 4FR41D +H0M4$, Y0U D1D +H1$ +0 Y0UR$3|F")
+    draw_text((o_player.x - 50), 600, "")
+    draw_text((o_player.x - 50), 650, "")
+    draw_text((o_player.x - 50), 700, "")
+    draw_text((o_player.x - 50), 750, "")
+}

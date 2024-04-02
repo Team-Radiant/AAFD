@@ -1,0 +1,10 @@
+image_xscale = 7
+image_yscale = 7
+timer = 0
+image_speed = 0
+image_index = 0
+audio_play_sound(snd_music, 6, false)
+audio_sound_gain(snd_music, 0.8, 100)
+text = 0
+o_random_glitch.randomglitch = 2
+o_random_glitch.timer = 0

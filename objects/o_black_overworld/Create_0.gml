@@ -1,0 +1,11 @@
+image_speed = 1
+image_index = 0
+image_xscale = 7
+image_yscale = 7
+right = 0
+left = 0
+up = 0
+down = 0
+walktimer = 0
+text = 0
+timer = 0
