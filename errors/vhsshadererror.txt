@@ -1,0 +1,11 @@
+
+___________________________________________
+############################################################################################
+ERROR in
+action number 1
+of Create Event
+for object obj_OLDTVFilter_VHS:
+
+script_execute argument 1 incorrect type (unknown) expecting a Number (YYGI32)############################################################################################
+gml_Object_obj_OLDTVFilter_VHS_Create_0 (line 1)
+gml_Object_o_options_KeyPress_13 (line 5)
